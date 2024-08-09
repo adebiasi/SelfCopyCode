@@ -252,3 +252,12 @@ class BiMap {
         return false;
     }
 }
+
+
+function keyPressed() {
+    if (key === 'R' || key === 'r') {
+        if (key === 'R' || key === 'r') {
+            saveGif('mySketch', 8);
+        }
+    }
+}
