@@ -5,6 +5,7 @@ Iteractive editor to execute code written in **BFF (Extending Brainfuck)** and t
 With this interactive editor it is possible to see how a __self-replicator__ works. 
 
 This is a screenshot of the interactive editor:
-
+![https://github.com/adebiasi/SelfCopyCode/blob/main/imgs/screenshot.png](https://github.com/adebiasi/SelfCopyCode/blob/main/imgs/screenshot.png)
 
 This animation shows the code (i.e. __[[{.>]-] ]-]>.{[[__) that is replicating itself:
+![https://github.com/adebiasi/SelfCopyCode/blob/main/imgs/mySketch.gif](https://github.com/adebiasi/SelfCopyCode/blob/main/imgs/mySketch.gif)
