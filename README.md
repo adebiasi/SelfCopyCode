@@ -11,6 +11,7 @@ This animation shows the code (i.e. __[[{.>]-] ]-]>.{[[__) that is replicating i
 ![https://github.com/adebiasi/SelfCopyCode/blob/main/imgs/mySketch.gif](https://github.com/adebiasi/SelfCopyCode/blob/main/imgs/mySketch.gif)
 
 ## Try it
+https://adebiasi.github.io/SelfCopyCode/main.html
 
 ## References
 
