@@ -124,7 +124,7 @@ function draw() {
 
 class BrainfuckInterpreter {
     constructor() {
-        this.tape = new Array(tapeLength).fill(0);
+        this.tape = new Array(tapeLength).fill(numAvailableChar-1);
         this.strTape = new Array(tapeLength).fill('');
 
         this.head0 = 0;
@@ -218,6 +218,7 @@ class BiMap {
         this.numToChar = {};
         this.charToNum = {};
 
+        this.addPair(0, '0');
         this.addPair(1, '<');
         this.addPair(2, '>');
         this.addPair(3, '{');
