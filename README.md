@@ -9,3 +9,11 @@ This is a screenshot of the interactive editor:
 
 This animation shows the code (i.e. __[[{.>]-] ]-]>.{[[__) that is replicating itself:
 ![https://github.com/adebiasi/SelfCopyCode/blob/main/imgs/mySketch.gif](https://github.com/adebiasi/SelfCopyCode/blob/main/imgs/mySketch.gif)
+
+## Try it
+
+## References
+
+- Paper: [Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction](https://arxiv.org/abs/2406.19108)
+- Youtube video about the paper: [Random Code Can Learn to Self-Replicate, New Study Finds
+](https://www.youtube.com/watch?v=EpRRwgyeBak&t=343s&pp=ygUUc2VsZiByZXBsaWNhdG9yIGNvZGU%3D)
